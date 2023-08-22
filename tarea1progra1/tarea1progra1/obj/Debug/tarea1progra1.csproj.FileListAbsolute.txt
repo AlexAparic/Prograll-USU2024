@@ -1,0 +1,10 @@
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\bin\Debug\tarea1progra1.exe.config
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\bin\Debug\tarea1progra1.exe
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\bin\Debug\tarea1progra1.pdb
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\obj\Debug\tarea1progra1.csproj.AssemblyReference.cache
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\obj\Debug\tarea1progra1.Form1.resources
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\obj\Debug\tarea1progra1.Properties.Resources.resources
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\obj\Debug\tarea1progra1.csproj.GenerateResource.cache
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\obj\Debug\tarea1progra1.csproj.CoreCompileInputs.cache
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\obj\Debug\tarea1progra1.exe
+C:\Users\anaze\source\repos\tarea1progra1\tarea1progra1\obj\Debug\tarea1progra1.pdb
