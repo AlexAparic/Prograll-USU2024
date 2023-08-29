@@ -64,12 +64,7 @@ namespace tarea1progra1
             this.CboTipoConversor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CboTipoConversor.FormattingEnabled = true;
             this.CboTipoConversor.Items.AddRange(new object[] {
-            "Moneda",
-            "Masa",
-            "Volumen",
-            "Longitud",
-            "Almacenamiento",
-            "Tiempo"});
+            "Area"});
             this.CboTipoConversor.Location = new System.Drawing.Point(172, 93);
             this.CboTipoConversor.Name = "CboTipoConversor";
             this.CboTipoConversor.Size = new System.Drawing.Size(206, 24);
