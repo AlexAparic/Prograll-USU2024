@@ -1,6 +1,0 @@
-C:\Users\anaze\source\repos\ProyectoLibreria\CapaEntidad\bin\Debug\CapaEntidad.dll
-C:\Users\anaze\source\repos\ProyectoLibreria\CapaEntidad\bin\Debug\CapaEntidad.pdb
-C:\Users\anaze\source\repos\ProyectoLibreria\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
-C:\Users\anaze\source\repos\ProyectoLibreria\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
-C:\Users\anaze\source\repos\ProyectoLibreria\CapaEntidad\obj\Debug\CapaEntidad.dll
-C:\Users\anaze\source\repos\ProyectoLibreria\CapaEntidad\obj\Debug\CapaEntidad.pdb
